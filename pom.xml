@@ -48,7 +48,7 @@
     <netty.version>4.1.0.CR6</netty.version>
     <spring.version>4.3.13.RELEASE</spring.version>
     <tomcat.version>8.5.37</tomcat.version>
-    <slf4j.version>1.7.25</slf4j.version>
+    <slf4j.version>1.7.36</slf4j.version>
     <maven.jacoco.version>0.7.2.201409121644</maven.jacoco.version>
   </properties>
   <repositories>
